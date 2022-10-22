@@ -18,7 +18,7 @@
 
 ## Scoring metric used
 
-$ Accuracy = 1 - \frac{(\frac{|O_h-P_h|}{1+P_h})+(\frac{|O_a-P_a|}{1+P_a})}{2}$
+$Accuracy = 1 - \frac{(\frac{|O_h-P_h|}{1+P_h})+(\frac{|O_a-P_a|}{1+P_a})}{2}$
 
 O = actual goals, P = predicted goals, h = home, a = away
 
